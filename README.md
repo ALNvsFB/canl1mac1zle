@@ -1,7 +1,7 @@
 <h1>Canlı Maç İzle</h1>
-<p>Futbol tutkunları için büyük maçlar, heyecan ve coşku demektir. Platformumuz, 08.02.2025 19:00 tarihinde oynanacak ⚽️ NET GLOBAL SİVASSPOR 🆚 BEŞİKTAŞ A.Ş. ⚽️ maçını sürekli ve yüksek kaliteyle izleme fırsatı sunuyor.</p>
+<p>Futbol tutkunları için büyük maçlar, heyecan ve coşku demektir. Platformumuz, 09.02.2025 16:00 tarihinde oynanacak ⚽️ CORNETDON ALANYASPOR 🆚 FENERBAHÇE A.Ş. ⚽️ maçını sürekli ve yüksek kaliteyle izleme fırsatı sunuyor.</p>
 
-<h2>Canlı Maç İzle - 08.02.2025 19:00 NET GLOBAL SİVASSPOR - BEŞİKTAŞ A.Ş.</h2>
+<h2>Canlı Maç İzle - 09.02.2025 16:00 CORNETDON ALANYASPOR - FENERBAHÇE A.Ş.</h2>
 <p>Modern tasarımı ve kullanıcı dostu arayüzüyle canlı maç keyfi, her yerde!</p>
 
 <center>
@@ -11,8 +11,8 @@
   </a>
 </center>
 
-<p>⚽️ NET GLOBAL SİVASSPOR 🆚 BEŞİKTAŞ A.Ş.</p>
-<p>📅 08 Şubat Cumartesi</p>
-<p>⏰ 19:00</p>
-<p>🔴🔶 Bu dev karşılaşmayı kaçırma! Canlı yayınımız burada 👉 <a href="http://bit.ly/bosssportstv">http://bit.ly/bosssportstv</a></p>
+<p>⚽️ CORNETDON ALANYASPOR 🆚 FENERBAHÇE A.Ş.</p>
+<p>📅 09 Şubat Cumartesi</p>
+<p>⏰ 16:00</p>
+<p>🔴🔶 Bu heyecan dolu karşılaşmayı kaçırma! Canlı yayınımız burada 👉 <a href="http://bit.ly/bosssportstv">http://bit.ly/bosssportstv</a></p>
 <p>📺 Full HD kalitesinde, kesintisiz futbol keyfi!</p>
